@@ -32,8 +32,6 @@ a {
   border-bottom: 1px solid #253452;
 }
 
-.hero h1 {
-  color: #f8fafc;
 }
 
 .brand {
@@ -105,4 +103,8 @@ a {
   .welcome {
     padding-top: 5rem;
   }
+  
+.hero h1 {
+  color: #f8fafc;
+}
 }
