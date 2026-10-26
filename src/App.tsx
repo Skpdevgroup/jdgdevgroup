@@ -24,7 +24,7 @@ function App() {
       <main id="home">
         <section className="welcome">
           <p className="eyebrow">WELCOME TO JDGDEVGROUP</p>
-          <h1>Turning Ideas Into Real-World Solutions</h1>
+          <h1>Turning Ideas Into Real World Solutions</h1>
           <p>
             Building modern applications with React, TypeScript,
             Python, and Web3 technologies.
