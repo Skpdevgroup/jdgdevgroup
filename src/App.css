@@ -1,3 +1,4 @@
+
 :root {
   font-family: Inter, system-ui, sans-serif;
   color: #f5f8ff;
@@ -29,6 +30,10 @@ a {
   gap: 2rem;
   padding: 1.5rem 6%;
   border-bottom: 1px solid #253452;
+}
+
+.hero h1 {
+  color: #f8fafc;
 }
 
 .brand {
